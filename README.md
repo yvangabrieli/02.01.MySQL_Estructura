@@ -1,4 +1,4 @@
-# 🗂️ Practical MySQL Exercises  
+# 🗂️ Practical MySQL Exercises - Data Structure
 
 ## 📌 Description  
 This repository contains two database design and SQL practice exercises built using **MySQL**.  
